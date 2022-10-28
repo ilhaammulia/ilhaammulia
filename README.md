@@ -46,6 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhaammulia&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhaammulia&show_icons=true&theme=tokyonight">
+</p>
 <!-- BLOG-POST-LIST:END -->
