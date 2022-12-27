@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 # 💫 About Me:
 A professional programmer from Indonesia. Currently studying at Jenderal Achmad Yani Yogyakarta University.<br>Focusing on website development both Front-End or Back-End.
