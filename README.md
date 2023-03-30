@@ -11,7 +11,7 @@
 </div>
 
 # 💫 About Me:
-A professional programmer from Indonesia. Currently studying at Jenderal Achmad Yani Yogyakarta University.<br>Focusing on website development both Front-End or Back-End.
+Student at Jenderal Achmad Yani Yogyakarta University. Having an interest in web development, problem solving, and other related tech. I am good at any programming languages such as Python, JavaScript, PHP. Currently open for internship, freelance, and part-time job to gain more experience.
 
 
 ## 🌐 Socials:
