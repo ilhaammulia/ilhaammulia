@@ -11,7 +11,7 @@
 </div>
 
 # 💫 About Me:
-Student at Jenderal Achmad Yani Yogyakarta University. Having an interest in web development, problem solving, and other related tech. I am good at any programming languages such as Python, JavaScript, PHP. Currently open for internship, freelance, and part-time job to gain more experience.
+I am a highly motivated and ambitious web developer with a strong interest in problem-solving and innovation. As a student of Informatics at Jenderal Achmad Yani Yogyakarta University, Indonesia, I am constantly seeking opportunities to develop my skills and gain valuable experience in the industry.
 
 
 ## 🌐 Socials:
