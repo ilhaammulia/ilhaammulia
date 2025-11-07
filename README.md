@@ -14,9 +14,9 @@
 ---
 
 # 💫 About Me
-I am a passionate and driven software developer with a deep enthusiasm for problem-solving and creating innovative digital solutions. Currently pursuing my degree in **Informatics at Jenderal Achmad Yani University, Yogyakarta,** I am dedicated to honing my technical skills and staying ahead of industry trends.
+I am a passionate and driven software developer dedicated to crafting innovative digital solutions. Having recently graduated with a degree in **Informatics** from **Jenderal Achmad Yani University, Yogyakarta,** I bring a foundation in technical problem-solving and a deep enthusiasm for creating seamless, user-friendly experiences. 
 
-I thrive on turning complex challenges into seamless, user-friendly experiences and am always eager to explore new technologies and frameworks. Whether it’s through academic projects, internships, or personal initiatives, I am committed to continuous learning and growth in the ever-evolving field of web development.
+I thrive on exploring new technologies and frameworks and am committed to continuous learning and growth in the ever-evolving field of software development.
 
 ---
 
